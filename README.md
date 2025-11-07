@@ -11,7 +11,7 @@ Features
 
 Technology
 
-· Database: SQL PostgreSQL
+· Database: SQL Oracle
 · Key Concepts: Database normalization, stored procedures, complex queries
 
 Database Tables
